@@ -1,4 +1,4 @@
-# Advanced Car Rental System 🚗
+# Car Rental System 🚗
 
 A console-based application built with **Core Java** that allows users to manage a car rental business. It features separate portals for Managers and Customers, Object-Oriented design, and a File I/O system that acts as a simple database so no data is lost between sessions.
 
